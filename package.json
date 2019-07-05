@@ -35,7 +35,8 @@
     "normalize-url": "4.0.0",
     "rc": "1.2.8",
     "read-pkg": "5.0.0",
-    "registry-auth-token": "4.0.0"
+    "registry-auth-token": "4.0.0",
+    "yaml": "^1.6.0"
   },
   "devDependencies": {
     "clear-module": "3.0.0",
