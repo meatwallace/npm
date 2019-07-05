@@ -135,6 +135,10 @@ function $$SETUP_STATE(hydrateRuntimeState) {
                   "npm:9.0.0"
                 ],
                 [
+                  "lodash",
+                  "npm:4.17.11"
+                ],
+                [
                   "nock",
                   "npm:10.0.0"
                 ],
@@ -818,6 +822,10 @@ function $$SETUP_STATE(hydrateRuntimeState) {
                 [
                   "got",
                   "npm:9.0.0"
+                ],
+                [
+                  "lodash",
+                  "npm:4.17.11"
                 ],
                 [
                   "nock",
